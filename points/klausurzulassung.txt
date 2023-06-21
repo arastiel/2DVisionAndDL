@@ -1,0 +1,10 @@
+# Diese Datei darf nur vom Übungsleiter geändert werden!!!!
+
+2D Vision and Deep Learning
+Klausurzulassung WS2020/21
+
+Erreicht        Name
+ja		Rasitello, Alessandro
+ja		Pham, Tony
+ja		Rubinic, Marko
+ja		Bartmer-Freund, Aron

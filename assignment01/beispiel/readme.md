@@ -1,0 +1,1 @@
+ich weis mittlerweile, dass 24+35 nicht 69 ist, habs aber nicht korrigiert und die anderen Fehler auch nicht, viel Spaß beim suchen :D
